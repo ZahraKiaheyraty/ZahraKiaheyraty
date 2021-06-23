@@ -1,3 +1,1 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrakiaheyraty1)
+![banner](https://miro.medium.com/max/800/1*RIANcAESOEI6IbMbxvE5Aw.jpeg)
